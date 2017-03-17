@@ -12,7 +12,7 @@ You will win if
 You will loos if
 - you don't finish in one minute or
 - the ball hits a cube of **different color** or 
-- the ball **fall off** from the play ground more than 4 times
+- the ball **falls off** from the play ground more than 4 times
 
 
 The player's color and cube's positions change each play. 
