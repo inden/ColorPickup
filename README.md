@@ -1,4 +1,4 @@
-# (Demo) ColorPickup aAme
+# (Demo) ColorPickup Game
 This game was edited with Unity3D, and exported as an Android app.
 
 # How to play ##
