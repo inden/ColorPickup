@@ -4,7 +4,6 @@ This game was edited with Unity3D, and exported as an Android app.
 # How to play ##
 
 You will roll the ball on the play ground and pick up cubes of the **same color**. 
-The player's color and cube's positions are changed each play. 
 
 It sounds easy but the ground is slippery and you may loose the control of your ball! 
 
@@ -15,6 +14,8 @@ You will loos if
 - the ball hits a cube of **different color** or 
 - the ball **fall off** from the play ground more than 4 times
 
+
+The player's color and cube's positions change each play. 
 
 The image below shows when the game starts.
 
