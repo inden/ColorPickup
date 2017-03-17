@@ -1,5 +1,5 @@
-# (Demo) ColorPickup GAme
-This game was edited by Unity and exported as an Android app.
+# (Demo) ColorPickup aAme
+This game was edited with Unity3D, and exported as an Android app.
 
 # How to play ##
 
